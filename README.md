@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @elBit0r
+- 👀 I’m interested in Python, FreeBSD, Linux and much more
